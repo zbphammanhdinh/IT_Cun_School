@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="phammanhdinh"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2022-06-21 03:37:36 CH"/>
+        <attribute name="created" value="cGhhbW1hbmhkaW5oO01BQ0JPT0stUFJPLUNVQTsyMDIyLTA2LTIxOzAzOjM0OjE4IENIOzM1Nzc="/>
+        <attribute name="edited" value="cGhhbW1hbmhkaW5oO01BQ0JPT0stUFJPLUNVQTsyMDIyLTA2LTIxOzAzOjM3OjM2IENIOzE7MzY4OA=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body/>
+    </function>
+</flowgorithm>
